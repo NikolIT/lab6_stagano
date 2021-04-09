@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\bin\Debug\netcoreapp3.1\lab6_steganografia.exe
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\bin\Debug\netcoreapp3.1\lab6_steganografia.deps.json
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\bin\Debug\netcoreapp3.1\lab6_steganografia.runtimeconfig.json
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\bin\Debug\netcoreapp3.1\lab6_steganografia.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\bin\Debug\netcoreapp3.1\lab6_steganografia.dll
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\bin\Debug\netcoreapp3.1\lab6_steganografia.pdb
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.AssemblyInfo.cs
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.dll
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.pdb
+C:\Users\nikol\source\repos\lab6_steganografia\lab6_steganografia\obj\Debug\netcoreapp3.1\lab6_steganografia.genruntimeconfig.cache
