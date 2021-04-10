@@ -30,7 +30,7 @@ namespace lab6_steganografia
             if (matrix[u1, v1] >= 0) z1 = 1;
             if (matrix[u1, v1] < 0) z1 = -1;
             if (matrix[u2, v2] >= 0) z2 = 1;
-            if (matrix[u2, v2] >= 0) z2 = -1;
+            if (matrix[u2, v2] < 0) z2 = -1;
 
             if (bit == 0)
             {
